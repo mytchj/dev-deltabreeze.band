@@ -24,7 +24,7 @@ LINKS = (
 
 # Social widget
 SOCIAL = (
-    ("TBD Youtube", "#")
+    ("TBD Youtube", "#"),
     ("TBD Instagram", "#"),
     ("TBD Faceook", "#"),
 )
