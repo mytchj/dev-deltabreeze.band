@@ -12,11 +12,16 @@ We are just three badboys making music and talking about our feelings 🐰🙃�
 Mars - Bass & Audio God
 -----------------------
 Cool facts go here 
+...
+
 
 Eric - Guitar & Vocals
 ----------------------
 Cool facts go here 
+...
+
 
 Mytch - Drums & Vocals
 ----------------------
 Cool facts go here 
+...
