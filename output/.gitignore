@@ -1,0 +1,4 @@
+# ignore the /output folder
+# generate output with `pelican content` command
+*
+!.gitignore

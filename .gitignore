@@ -51,7 +51,3 @@ docs/_build/
 
 # ignore any vscode metadata
 .vscode/*
-
-# ignore the /output folder
-# generate output with `pelican content` command
-output/
