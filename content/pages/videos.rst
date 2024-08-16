@@ -8,8 +8,9 @@ Original Videos by the Band
 ===========================
 
 
-**Recent Videos**
+**Recent DEMO Playlist Videos**
 
-* video 1
-* video 2
-* video 3
+.. youtube:: videoseries?si=6BcpzaFIKUfy3sqs&amp;list=PLmpx654h_7ExBtxDVcZerC90mbAwoZLzh
+    :class: youtube-4x3
+    :allowfullscreen: no
+    :seamless: no

@@ -7,10 +7,9 @@ Music
 Original Music by the Band
 ==========================
 
-**Demo Songs**
+**Demo Songs Playlist**
 
-* song 1
-* song 2
-* song 3
-* song 4
-* song 5
+.. youtube:: videoseries?si=6BcpzaFIKUfy3sqs&amp;list=PLmpx654h_7ExBtxDVcZerC90mbAwoZLzh
+    :class: youtube-4x3
+    :allowfullscreen: no
+    :seamless: no
